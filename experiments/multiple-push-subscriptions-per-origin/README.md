@@ -1,0 +1,1 @@
+Testing whether registering multiple service workers (in different scopes) allows multiple push subscriptions in one site origin.

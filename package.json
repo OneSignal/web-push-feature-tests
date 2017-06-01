@@ -1,0 +1,11 @@
+{
+  "name": "web-push-feature-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:OneSignal/web-push-feature-tests.git",
+  "author": "Jason Pang <jason@jasonpang.me>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
